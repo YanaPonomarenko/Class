@@ -58,8 +58,8 @@ void Laptop::setWeight(float w)
 
 ostream& operator<<(ostream& os, const Laptop& laptop)
 {
-    cout << "brand: " << laptop.model;
-    cout << "diagonal: " << laptop.diagonal;
-    cout << "manufacturer: " << laptop.manufacturer;
-    cout << "weight: " << laptop.weight;
+    os << "brand: " << laptop.model;
+    os << "diagonal: " << laptop.diagonal;
+    os << "manufacturer: " << laptop.manufacturer;
+    os << "weight: " << laptop.weight;
 }
