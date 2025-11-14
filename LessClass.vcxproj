@@ -138,6 +138,7 @@
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="Date.cpp" />
     <ClCompile Include="Document.cpp" />
+    <ClCompile Include="InterfacePractice.cpp" />
     <ClCompile Include="Laptop.cpp" />
     <ClCompile Include="Letter.cpp" />
     <ClCompile Include="mainDate.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="Number.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="room_furniture.cpp" />
+    <ClCompile Include="SmartLamp.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source3.cpp" />
   </ItemGroup>
