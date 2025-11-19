@@ -134,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Animal(practice).cpp" />
+    <ClCompile Include="Book(practice).cpp" />
     <ClCompile Include="Book.cpp" />
     <ClCompile Include="Character.cpp" />
     <ClCompile Include="Date.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="SmartLamp.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="Source3.cpp" />
+    <ClCompile Include="Vector(practice).cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
