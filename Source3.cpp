@@ -1,4 +1,4 @@
-#include <iostream>
+﻿/*#include <iostream>
 using namespace std;
 
 class Point
@@ -95,4 +95,4 @@ int main()
     Point p3 = p1 + p2;
     p3.showPoint();
     return 0;
-}
+}*/
